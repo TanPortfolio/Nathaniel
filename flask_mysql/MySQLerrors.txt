@@ -1,0 +1,5 @@
+OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'root'@'localhost' (using password: NO)")
+
+OperationalError: (_mysql_exceptions.OperationalError) (1045, "Access denied for user 'ODBC'@'localhost' (using password: YES)")
+
+ValueError: invalid literal for int() with base 10: ''
